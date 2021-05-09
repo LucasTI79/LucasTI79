@@ -20,6 +20,7 @@ Studying software enginer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs,prs "Stats github")
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact "Languages github")
 
 <!--
