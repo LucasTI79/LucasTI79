@@ -3,6 +3,9 @@
 Full-stack developer
 
  🎓 Studying software enginer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/)
+ and
+ 🎓 Studying systems analysis and development in [Bandtec](http://www.digitalschool.com.br/)
+
 
 ## 🧰 Languages and Tools
 <div>
