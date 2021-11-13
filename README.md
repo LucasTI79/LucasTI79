@@ -27,8 +27,10 @@ Full-stack developer
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feitosa-bb39b2119/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
 
- <a href="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs"><img src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/></a>
-![stats](https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs,prs "Stats github")
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt=l"anguages" title="languages"/>
+</div>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact "Languages github")
+
 
