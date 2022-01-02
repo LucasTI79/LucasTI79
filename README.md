@@ -28,8 +28,8 @@ Full-stack developer
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feitosa-bb39b2119/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
 
 <div style="display: flex;">
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt=l"anguages" title="languages"/>
+<img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
+<img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt=l"anguages" title="languages"/>
 </div>
 
 
