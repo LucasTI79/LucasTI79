@@ -6,6 +6,8 @@ Full-stack developer
   * Software enginer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/)
   * Systems analysis and development in [Bandtec](http://www.digitalschool.com.br/)
 
+ 💼 Working 
+  * Full stack developer in [Kore Labs](https://br.korewireless.com/)
 
 ## 🧰 Languages and Tools
 <div>
