@@ -6,9 +6,6 @@ Full-stack developer
   * Software enginer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/)
   * Systems analysis and development in [Bandtec](http://www.digitalschool.com.br/)
 
-<!--  💼 Working 
-  * Full stack developer in [Kore Labs](https://br.korewireless.com/) -->
-
 ## 🧰 Languages and Tools
 <div>
 
@@ -19,7 +16,6 @@ Full-stack developer
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5 "HTML5 documentation")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://developer.mozilla.org/pt-BR/docs/Web/CSS "CSS3 documentation")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="CSS3" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://docs.mongodb.com/ "MongoDB documentation")
-<!--[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust" height="30" style="vertical-align:top; margin:4px; border-radius:5px;"/>](https://www.rust-lang.org/ "Rust docs")-->
 </div>
 
 
