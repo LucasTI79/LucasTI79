@@ -32,7 +32,7 @@ Full-stack developer
 <div style="display: flex;">
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="languages"/>
- <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="wakatime stats"/>
+ <img style="height: 150px" src="[https://github-readme-stats.vercel.app/api/wakatime?username=LucasTI79](https://wakatime.com/share/@8ed467fd-eddb-4dd6-9f5d-a56264ee9c9c/cb6c6378-aed2-440a-b013-e96770ee57c8.svg)" alt="Wakatime" title="wakatime stats"/>
 </div>
 
 
