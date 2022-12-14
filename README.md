@@ -33,8 +33,6 @@ Full-stack developer
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="languages"/>
 </div>
-<figure style="background-color: #f6f6f6">
-<img src="https://wakatime.com/share/@8ed467fd-eddb-4dd6-9f5d-a56264ee9c9c/cb6c6378-aed2-440a-b013-e96770ee57c8.svg" />
-<figure/>
+<img src="https://wakatime.com/share/@8ed467fd-eddb-4dd6-9f5d-a56264ee9c9c/22ef5f88-6130-4a2b-bc0c-4aac771d70aa.png" />
 
 
