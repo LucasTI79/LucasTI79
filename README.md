@@ -32,7 +32,7 @@ Full-stack developer
 <div style="display: flex; flex-grow: row wrap;">
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="languages"/>
-<img style="height: 150px" src="https://wakatime.com/share/@8ed467fd-eddb-4dd6-9f5d-a56264ee9c9c/22ef5f88-6130-4a2b-bc0c-4aac771d70aa.png" />
+<img style="height: 150px" src="https://wakatime.com/share/@8ed467fd-eddb-4dd6-9f5d-a56264ee9c9c/c82fc734-865c-45c9-af89-4998aaf79b2f.svg" />
 </div>
 
 
