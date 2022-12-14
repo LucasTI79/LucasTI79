@@ -31,7 +31,8 @@ Full-stack developer
 
 <div style="display: flex;">
 <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=LucasTI79&show_icons=true&hide=contribs" alt="stats" title="stats"/>
-<img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt=l"anguages" title="languages"/>
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="languages"/>
+ <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact" alt="languages" title="wakatime stats"/>
 </div>
 
 
