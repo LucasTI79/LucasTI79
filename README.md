@@ -17,7 +17,6 @@ Full-stack developer
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://developer.mozilla.org/pt-BR/docs/Web/CSS "CSS3 documentation")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongodb" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://docs.mongodb.com/ "MongoDB documentation")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://redis.io "Redis documentation")
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" alt="Redis" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://redis.io "Redis documentation")
 </div>
 
 
