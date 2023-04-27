@@ -14,10 +14,8 @@ Full-stack developer
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="30" style="vertical-align:top; margin:4px; border-radius:5px;"/>](https://www.typescriptlang.org "Typescript docs")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://nodejs.org/en/docs/ "Nodejs docs")
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://pt-br.reactjs.org/docs/getting-started.html "Reactjs docs")
-
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://docs.docker.com/ "Docker documentation")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="margin:4px;border-radius:5px;" alt="Nginx" width="30" height="30"/>](https://www.nginx.com/ "Nginx docs")
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://docs.mongodb.com/ "MongoDB documentation")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://www.postgresql.org "Postgres documentation")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="30" style="vertical-align:top; margin:4px;border-radius:5px;">](https://redis.io "Redis documentation")
