@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi! My name is Lucas and I've a degree in Systems Analysis and Development. Currently, I am pursuing a degree in Software Engineering. 
+Hi! My name is Lucas and I've a degree in Systems Analysis and Development. Currently, I'm pursuing a degree in Software Engineering. 
 I work as a FullStack developer at an IoT company.
 
 I always enjoy learning new things and sharing my knowledge with the people around me :)
