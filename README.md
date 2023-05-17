@@ -1,6 +1,12 @@
 <img src="./assets/cover.jpeg" alt="cover" title="cover"/>
 
-Full-stack developer
+## About me
+
+Hi! My name is Lucas and I've a degree in Systems Analysis and Development. Currently, I am pursuing a degree in Software Engineering. 
+I work as a FullStack developer at an IoT company.
+
+I always enjoy learning new things and sharing my knowledge with the people around me :)
+
 
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
