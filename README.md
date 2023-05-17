@@ -1,12 +1,6 @@
-## Hi there 👋 I'm Lucas 🇧🇷
+<img src="./assets/cover.jpeg" alt="cover" title="cover"/>
 
 Full-stack developer
-
- 🎓 Studying 
-  * Software engineer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/)
-  * Systems analysis and development in [Bandtec](http://www.digitalschool.com.br/)
-
-<img src="./assets/cover.jpeg" alt="cover" title="cover"/>
 
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
