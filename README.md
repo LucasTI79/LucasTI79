@@ -9,7 +9,7 @@ Full-stack developer
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
 
- [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,prisma,react,nextjs,styledcomponents,tailwindcss,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel,grafana,prometheus)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,prisma,sequelize,react,nextjs,styledcomponents,tailwindcss,sass,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel)](https://skillicons.dev)
 </div> 
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feitosa-bb39b2119/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
