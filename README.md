@@ -11,7 +11,7 @@ Full-stack developer
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
 
- [![My Skills](https://skillicons.dev/icons?i=ts,javascript,adonis,nest,express,nodejs,prisma,react,nextjs,styledcomponents,tailwindcss,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel,grafana,prometheus)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,prisma,react,nextjs,styledcomponents,tailwindcss,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel,grafana,prometheus)](https://skillicons.dev)
 </div> 
 
 
