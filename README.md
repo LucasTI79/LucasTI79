@@ -11,7 +11,7 @@ Full-stack developer
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
 
- [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,docker,nginx,mongodb,postgres,mysql,redis,go,spring,rabbitmq,gcp,azure,aws)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,react,nextjs,docker,nginx,mongodb,postgres,mysql,redis,go,spring,rabbitmq,gcp,azure,aws)](https://skillicons.dev)
 </div> 
 
 
