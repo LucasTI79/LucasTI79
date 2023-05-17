@@ -6,19 +6,11 @@ Full-stack developer
   * Software engineer in [Cruzeiro do sul](https://www.cruzeirodosul.edu.br/)
   * Systems analysis and development in [Bandtec](http://www.digitalschool.com.br/)
 
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="30" style="vertical-align:top; margin:4px; border-radius:5px;"/>](https://www.typescriptlang.org "Typescript docs") -->
-
 ## 🧰 Languages and Tools
 <div style="display:flex;align-items:center;gap:4px">
 
  [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,prisma,react,nextjs,styledcomponents,tailwindcss,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel,grafana,prometheus)](https://skillicons.dev)
 </div> 
-
-
-## 📈 Objectives
-
-* OpenJS NodeJs Application Developer (JSNAD) certification
-## Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feitosa-bb39b2119/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
 
