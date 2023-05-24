@@ -14,7 +14,7 @@ I always enjoy learning new things and sharing my knowledge with the people arou
  [![My Skills](https://skillicons.dev/icons?i=ts,adonis,nest,express,nodejs,prisma,sequelize,react,nextjs,styledcomponents,tailwindcss,sass,docker,nginx,mongodb,postgres,mysql,redis,go,java,kotlin,spring,rabbitmq,git,linux,gcp,azure,aws,heroku,vercel)](https://skillicons.dev)
 </div> 
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-feitosa-bb39b2119/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitosadev/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
 
 
 <!-- <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=lucasti79&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=issues" alt="stats" title="stats"/>
