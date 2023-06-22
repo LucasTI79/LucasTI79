@@ -2,10 +2,9 @@
 
 ## About me
 
-Hi! My name is Lucas and I've a degree in Systems Analysis and Development. Currently, I'm pursuing a degree in Software Engineering. 
-I work as a FullStack developer at an IoT company.
+Hi! My name is Lucas, and I have a degree in Systems Analysis and Development. Currently, I am studying Software Engineering. I work as a FullStack developer in an IoT company and teach Node.js and GoLang classes in an EdTech called Digital House.
 
-I always enjoy learning new things and sharing my knowledge with the people around me :)
+I have always enjoyed learning new things and sharing my knowledge with the people around me :)
 
 
 ## 🧰 Languages and Tools
