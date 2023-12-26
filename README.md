@@ -15,9 +15,10 @@ I have always enjoyed learning new things and sharing my knowledge with the peop
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitosadev/ "linkedin")[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukasalves271@gmail.com?subject=contato "send mail")
 
-<div>
+<div style="display:flex;flex-wrap:wrap;">
 <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=lucasti79&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide=issues" alt="stats" title="stats"/>
 <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTI79&layout=compact&langs_count=8&hide=css,html" alt="languages" title="languages"/>
+</div>
 
 
 
