@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi! My name is Lucas, and I have a degree in Systems Analysis and Development and Software Engineering. I work as a FullStack developer in an IoT company and teach Node.js and GoLang classes in an EdTech called Alkemy.
+Hi! My name is Lucas, and I have a degree in Systems Analysis and Development and Software Engineering. I work as a FullStack developer in an IoT company and teach Node.js and GoLang classes in an EdTech called Alkemy. 
 
 I have always enjoyed learning new things and sharing my knowledge with the people around me :)
 
